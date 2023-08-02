@@ -45,7 +45,7 @@ exports[`getUpcomingReleases should compute upcoming releases correctly 1`] = `
         "releaseType": "Maintenance",
       },
       {
-        "alreadyReleased": false,
+        "alreadyReleased": true,
         "releaseDate": "2023-04-30",
         "releaseType": "End-of-life",
       },
